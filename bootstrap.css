@@ -6,12 +6,12 @@
     display:none;
   }
   .txt{
-    font-size: 20px !important;
+    font-size: 20px!important;
   }
   .img-fluid{
-    display:none;
+    display:none!important;
   }
   .p-5{
-    padding: 1rem !important;
+    padding: 1rem!important;
   }
 }
